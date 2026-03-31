@@ -1,0 +1,28 @@
+==================================================
+       MY OPEN SOURCE MANIFESTO
+       Generated on: 24 March 2026
+       By: warpy
+==================================================
+
+  I believe in the power of open source software.
+
+  Every day, I rely on Linux — a tool built not by
+  a corporation for profit, but by a community for
+  the common good. To me, freedom means Not being bound.
+  That is the same freedom that open source gives
+  every developer: the freedom to read, change,
+  and share the tools they depend on.
+
+  Inspired by projects like Git — built by Linus
+  Torvalds and shared with the world under the
+  GPL v2 license — I commit to contributing to
+  the open-source community. One day, I will build
+  An OS and share it freely, so that others may
+  build on my work just as I have built on theirs.
+
+  Standing on the shoulders of giants, I choose
+  to be a giant for the next generation.
+
+==================================================
+  Signed: warpy | 24 March 2026
+==================================================
