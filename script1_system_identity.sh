@@ -1,13 +1,13 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Aaryan Maurya | Roll: 24BAI10259
+# Author: PARARDHA DHAR | Roll: 24BCG10003
 # Course: Open Source Software | Software Choice: Git
 # Description: Displays a welcome screen with system info
 # ============================================================
 
 # --- Variables ---
-STUDENT_NAME="Aaryan Maurya"
+STUDENT_NAME="PARARDHA DHAR"
 SOFTWARE_CHOICE="Git"
 LICENSE="GPL v2"
 

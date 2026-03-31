@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 5: Open Source Manifesto Generator
-# Author: Aaryan Maurya | Roll: 24BAI10259
+# Author: PARARDHA DHAR | Roll: 24BCG10003
 # Course: Open Source Software | Software Choice: Git
 # Description: Asks the user 3 questions interactively and
 #              generates a personalised open source manifesto

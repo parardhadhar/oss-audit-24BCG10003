@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 2: FOSS Package Inspector
-# Author: Aaryan Maurya | Roll: 24BAI10259
+# Author: PARARDHA DHAR | Roll: 24BCG10003
 # Course: Open Source Software | Software Choice: Git
 # Description: Checks if a FOSS package is installed,
 #              shows its details, and prints a philosophy note
